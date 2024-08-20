@@ -12,6 +12,7 @@
 |       [Занятие 5](./KLSH-lesson5)       |                           Python: функции                           |
 |       [Занятие 6](./KLSH-lesson6)       |                           Python: классы                            |
 |       [Занятие 7](./KLSH-lesson7)       |                         Python: FLASK (API)                         |
-|       [Занятие 8](./KLSH-lesson6)       |                     HTML + CSS: базовые понятия                     |
-|       [Занятие 9](./KLSH-lesson6)       |                              HTML + JS                              |
+|       [Занятие 8](./KLSH-lesson8)       |                     HTML + CSS: базовые понятия                     |
+|       [Занятие 9](./KLSH-lesson9)       |                              HTML + JS                              |
 |     [Пример](./KLSH-lesson-example)     |                          Пример приложения                          |
+|          [Допы](./KLSH-extra)           |                νρπ, Виртуальные машины и OSI модель                 |
