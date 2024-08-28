@@ -16,3 +16,5 @@
 |       [Занятие 9](./KLSH-lesson9)       |                              HTML + JS                              |
 |     [Пример](./KLSH-lesson-example)     |                          Пример приложения                          |
 |          [Допы](./KLSH-extra)           |                νρπ, Виртуальные машины и OSI модель                 |
+
+P.S. [Весёлая история](https://lleo.me/arhive/humor/serafim.htm)
