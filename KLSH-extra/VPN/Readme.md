@@ -5,3 +5,5 @@
 В jupyter notebook [Cloud_Tunnel.ipynb](./Cloud_Tunnel.ipynb) содержатся команды для того чтобы сделать доступным world-wide запущенный на вашем компе веб-сайт практически в одно нажатие без пробросов порта, открытия firewallow и т.п.
 
 В файле [vpn2.yaml](./vpn2.yaml) содержится конфигурация для Cloud Formation AWS, чтобы поднять там свой полноценный νρπ сервер (вряд ли это вам понадобится, но оно тут есть).
+
+:feelsgood: Файл [PROXY-light.ipynb](./PROXY-light.ipynb) откройте в [google colab](https://colab.research.google.com/) &ndash; это облегчённая и улучшенная версия [PROXY.ipynb](./PROXY.ipynb): она не требует проброса портов роутера и делает прокси доступной из любого места.
